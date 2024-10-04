@@ -30,7 +30,7 @@ My favorite earth science topics consist of:
 
 * Climate Dynamics
 * Climate Sensitivity
-* Hydroloogical Impacts
+* Hydrological Impacts
 * Drought/Flood
 * Cloud Feedbacks
 
