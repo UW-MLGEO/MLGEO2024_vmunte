@@ -24,6 +24,16 @@ To install and set up the project on your local machine, follow these steps:
 
 Once the environment is set up, you can open and run the Jupyter notebook by finding it in the cloned repository.
 
+## Favorite Earth Science Topics
+
+My favorite earth science topics consist of:
+
+* Climate Dynamics
+* Climate Sensitivity
+* Hydroloogical Impacts
+* Drought/Flood
+* Cloud Feedbacks
+
 ## Licensing
 
 This repository uses MIT licesning because it is a simple, permissive license that allows users to 'copy, modify, redistribute, and sell the software without many restrictions.'
