@@ -22,11 +22,7 @@ To install and set up the project on your local machine, follow these steps:
 
 ## Running the Notebook
 
-Once the environment is set up, you can open and run the Jupyter notebook by executing the following command:
-
-```bash
-    
-```
+Once the environment is set up, you can open and run the Jupyter notebook by finding it in the cloned repository.
 
 ## Licensing
 
