@@ -1,0 +1,13 @@
+name: mlgeo_dataset
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - matplotlib
+  - numpy
+  - obspy
+  - pandas
+  - nbgitpuller
+  - curl
+  - pooch
+  - pip=20
