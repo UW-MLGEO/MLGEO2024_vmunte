@@ -10,20 +10,14 @@ To install and set up the project on your local machine, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/username/project-name.git
+    git clone https://github.com/UW-MLGEO/MLGEO2024_vmunte.git
     ```
 
-2. Navigate to the project directory:
+2. Create and activate a Conda environment:
 
     ```bash
-    cd project-name
-    ```
-
-3. Create and activate a Conda environment:
-
-    ```bash
-    conda env create -f environment.yml
-    conda activate project-env
+    conda env create --file MLGeo-dataset/environment.yml
+    conda activate mlgeo_dataset
     ```
 
 ## Running the Notebook
@@ -31,4 +25,9 @@ To install and set up the project on your local machine, follow these steps:
 Once the environment is set up, you can open and run the Jupyter notebook by executing the following command:
 
 ```bash
-jupyter notebook
+    
+```
+
+## Licensing
+
+This repository uses MIT licesning because it is a simple, permissive license that allows users to 'copy, modify, redistribute, and sell the software without many restrictions.'
